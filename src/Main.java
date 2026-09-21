@@ -4,10 +4,9 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("BIENVENIDO AL EJERCICIO FORK Y PULL REQUEST!");
+        System.out.println("BIENVENIDO AL EJERCICIO FORK Y PULL REQUEST!");
+        System.out.println("____________________________________________");
 
-        System.out.printf("CRISTIAN NAVARRO");
-
-
+        System.out.println("Cristian Navarro López");
     }
 }
