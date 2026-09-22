@@ -8,6 +8,6 @@ public class Main {
         System.out.println("____________________________________________");
 
         System.out.println("Cristian Navarro López");
-        System.out.println("Juan Carlos Alumbreros Fresneda");
+        System.out.println("Antonio Moreno Lara");
     }
 }
