@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("Cristian Navarro López");
         System.out.println("Juan Carlos Alumbreros Fresneda");
-        System.out.println("Manuel Romero Delicado PATETERO");
+        System.out.println("Manuel Romero Delicado XJXJAJA");
 
     }
 }
