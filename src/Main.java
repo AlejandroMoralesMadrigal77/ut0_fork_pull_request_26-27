@@ -10,5 +10,9 @@ public class Main {
         System.out.println("Cristian Navarro López");
         System.out.println("Juan Carlos Alumbreros Fresneda");
         System.out.println("Alejandro Montejano Bautista");
+        System.out.println("Pedro Fernandez Pina");
+        System.out.println("Manuel Romero Delicado");
+        System.out.println("Alejandro Morales Madrigal");
+        System.out.println("Antonio Moreno Lara");
     }
 }
